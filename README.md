@@ -6,7 +6,7 @@ This repository contains the **Forticlient_install.bat** script, designed for de
 
 ## Required Files
 
-Before setting up the GPO, you need to download the following files and place them in the `\<DOMAIN>\SYSVOL\<DOMAIN>\Forticlient_install` directory:
+Before setting up the GPO, you need to download the following files and place them in the `\\<DOMAIN>\SYSVOL\<DOMAIN>\Forticlient_install` directory:
 
 - **Microsoft Visual C++ Redistributable** (required for FortiClient to function properly):  
   [Download here](https://aka.ms/vs/17/release/vc_redist.x64.exe)
